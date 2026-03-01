@@ -1,5 +1,7 @@
 package comp367;
 
+import java.time.LocalTime;
+
 public class MainApp {
     public static void main(String[] args) {
 
